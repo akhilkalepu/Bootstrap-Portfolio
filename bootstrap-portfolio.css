@@ -1,3 +1,21 @@
-.img-responsive {
+.body {
+
+}
+    .body img {
+        margin: 15px;
+    }
+    .body p {
+        margin: 15px;
+    }
     
+.column {
+    margin: 15px;
+}
+
+form {
+    margin: 15px;
+}
+
+.emailHelp {
+    margin: 15px;
 }
